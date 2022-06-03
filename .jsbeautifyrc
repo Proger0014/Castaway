@@ -1,0 +1,6 @@
+{
+    "html": {
+        "end_with_newline": true,
+	"preserve_newlines": true
+    }
+}
